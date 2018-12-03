@@ -1,0 +1,66 @@
+html {
+  box-sizing: border-box;
+  font-family: "Open Sans", sans-serif;
+  line-height: 1.5;
+  background-color: #fff;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+
+img {
+  width: 100%;
+  display: block;
+}
+
+body {
+  background-color: #f2f2f2;
+  padding: .75rem;
+  flex-grow: 1;
+  margin: 0;
+}
+
+.quest img {
+  display: block;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1.5rem;
+}
+
+.dino img {
+  display: block;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1.5rem;
+}
+
+.laser img {
+  display: block;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1.5rem;
+}
+
+.dragon img {
+  display: block;
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1.5rem;
+}
+
+.group {
+  display: flex;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+  padding: .75rem;
+  margin: 0;
+}
